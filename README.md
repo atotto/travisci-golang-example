@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/atotto/travisci-golang-example.png)](https://travis-ci.org/atotto/travisci-golang-example)
+
 # Travis-CI example for Go
 
 This is "go get"-able project and Travis-CI buildable.
