@@ -13,7 +13,7 @@ You can use go get command:
 
 Testing:
 
-    go test github.com/atotto/travisci-golang-example 
+    go test github.com/atotto/travisci-golang-example/...
 
 
 ## Travis-CI
