@@ -11,7 +11,7 @@ This is "go get"-able project and Travis-CI buildable.
 
 ## Travis-CI
 
-You can see a build status: https://travis-ci.org/atotto/travisci-golang-example
+You can see a build status: https://travis-ci.com/atotto/travisci-golang-example
 
 
 
