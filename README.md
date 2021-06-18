@@ -7,11 +7,11 @@ This is "go get"-able project and Travis-CI buildable.
 
 ## go module
 
-    go get -u github.com/atotto/travisci-golang-example
+    go get -u github.com/loyalpartner/travisci-golang-example
 
 ## Travis-CI
 
-You can see a build status: https://travis-ci.com/atotto/travisci-golang-example
+You can see a build status: https://travis-ci.com/loyalpartner/travisci-golang-example
 
 
 
